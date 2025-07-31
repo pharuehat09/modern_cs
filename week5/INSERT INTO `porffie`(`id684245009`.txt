@@ -1,0 +1,9 @@
+INSERT INTO `porffie`(`id684245009`, `mmm`, `aaa`, `bbb`) VALUES ('001','A','aa','สาขาวิทยาการคอมพิวเตอร์')
+INSERT INTO `porffie`(`id684245009`, `mmm`, `aaa`, `bbb`) VALUES ('002','B','bb','สาขาชีววิทยา')
+INSERT INTO `porffie`(`id684245009`, `mmm`, `aaa`, `bbb`) VALUES ('003','D','dd','สาขาเคมี')
+
+DELETE
+DELETE FROM `porffie` WHERE id684245009 
+
+UPDATE
+UPDATE `porffie` SET `bbb`='คณิตศษตร์' WHERE 4563
